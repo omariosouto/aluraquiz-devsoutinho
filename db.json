@@ -1,0 +1,68 @@
+{
+  "bg": "https://aluraquiz-base.alura-challenges.vercel.app/devsoutinho-image.png",
+  "title": "Quiz do Canal DevSoutinho",
+  "description": "Será que você acompanha mesmo o canal?",
+  "questions": [
+    {
+      "image": "https://media.giphy.com/media/l4Ho9SUtchnKtOx32/giphy.gif",
+      "title": "Qual foi o primeiro vídeo do canal?",
+      "description": "Essa é pra aquecer",
+      "answer": 2,
+      "alternatives": [
+        "Flappy Bird",
+        "NextJS com SEO",
+        "Konami Code",
+        "Como fazer animação no Scroll"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "É verdade que o canal tem mensagens subliminares com o logo da alura aparecendo?",
+      "description": "Será :O",
+      "answer": 0,
+      "alternatives": [
+         "Sim",
+         "Não"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "Quantos inscritos o canal terminou o ano de 2020?",
+      "description": "Faz tempo em haha",
+      "answer": 1,
+      "alternatives": [
+         "10k",
+         "15k",
+         "20k"
+      ]
+    },
+    {
+      "image": "https://media.giphy.com/media/4uVyQiFGLicuI/giphy.gif",
+      "title": "Qual a frase que eu sempre falo nos vídeos relacionado a NextJS?",
+      "description": "Faz tempo em haha",
+      "answer": 0,
+      "alternatives": [
+         "NextJS é ruim",
+         "Vamos ser o maior canal falando de NextJS no Brasil!",
+         "NextJS é a melhor solução para qualquer projeto"
+      ]
+    }
+  ],
+  "external": [
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://aluraquiz-css.omariosouto.vercel.app/",
+    "https://aluraquiz-javascript.omariosouto.vercel.app/",
+    "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#ff6705",
+      "secondary": "#ff0101",
+      "mainBg": "#222222",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
